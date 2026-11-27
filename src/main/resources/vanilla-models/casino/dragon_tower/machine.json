@@ -1,0 +1,499 @@
+{
+  "blocks": [
+    {
+      "name": "plinth",
+      "position": [
+        0.0,
+        0.015,
+        -0.08625
+      ],
+      "size": [
+        0.75,
+        0.03,
+        0.3275
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "lower_body",
+      "position": [
+        0.0,
+        0.135,
+        -0.09749999999999999
+      ],
+      "size": [
+        0.715,
+        0.21,
+        0.27999999999999997
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "rear_shell",
+      "position": [
+        0.0,
+        0.53,
+        -0.11624999999999999
+      ],
+      "size": [
+        0.69,
+        0.58,
+        0.2675
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "left_cheek",
+      "position": [
+        -0.36,
+        0.540625,
+        -0.09375
+      ],
+      "size": [
+        0.030000000000000027,
+        0.6012500000000001,
+        0.3125
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "right_cheek",
+      "position": [
+        0.36,
+        0.540625,
+        -0.09375
+      ],
+      "size": [
+        0.030000000000000027,
+        0.6012500000000001,
+        0.3125
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "marquee",
+      "position": [
+        0.0,
+        0.8262499999999999,
+        0.035625000000000004
+      ],
+      "size": [
+        0.69,
+        0.03749999999999998,
+        0.03625
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "canopy",
+      "position": [
+        0.0,
+        0.8456250000000001,
+        -0.091875
+      ],
+      "size": [
+        0.725,
+        0.008749999999999925,
+        0.31625000000000003
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "kick_light",
+      "position": [
+        0.0,
+        0.037500000000000006,
+        0.04875
+      ],
+      "size": [
+        0.685,
+        0.010000000000000002,
+        0.0075
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "left_edge_light",
+      "position": [
+        -0.36250000000000004,
+        0.54375,
+        0.066375
+      ],
+      "size": [
+        0.007500000000000007,
+        0.5725,
+        0.005250000000000005
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "right_edge_light",
+      "position": [
+        0.36250000000000004,
+        0.54375,
+        0.066375
+      ],
+      "size": [
+        0.007500000000000007,
+        0.5725,
+        0.005250000000000005
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "header_light",
+      "position": [
+        0.0,
+        0.8456250000000001,
+        0.062375
+      ],
+      "size": [
+        0.67,
+        0.003750000000000031,
+        0.00875
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "vent_0",
+      "position": [
+        0.0,
+        0.06725,
+        0.0455
+      ],
+      "size": [
+        0.64,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "vent_1",
+      "position": [
+        0.0,
+        0.081,
+        0.0455
+      ],
+      "size": [
+        0.64,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "vent_2",
+      "position": [
+        0.0,
+        0.09475,
+        0.0455
+      ],
+      "size": [
+        0.64,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "tower_back",
+      "position": [
+        0.0,
+        0.53375,
+        0.0025000000000000005
+      ],
+      "size": [
+        0.68,
+        0.5275,
+        0.045
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "control_dock",
+      "position": [
+        0,
+        0.13640306391353665,
+        0.16312290500877513
+      ],
+      "size": [
+        0.7,
+        0.1,
+        0.237625
+      ],
+      "material": "GRAY_CONCRETE",
+      "rotation": [
+        -35,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "level_light_l_0",
+      "position": [
+        -0.3575,
+        0.28437500000000004,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999993,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_r_0",
+      "position": [
+        0.3575,
+        0.28437500000000004,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999993,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_l_1",
+      "position": [
+        -0.3575,
+        0.364375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999993,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_r_1",
+      "position": [
+        0.3575,
+        0.364375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999993,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_l_2",
+      "position": [
+        -0.3575,
+        0.44437499999999996,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999993,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_r_2",
+      "position": [
+        0.3575,
+        0.44437499999999996,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999993,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_l_3",
+      "position": [
+        -0.3575,
+        0.524375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.02375000000000005,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_r_3",
+      "position": [
+        0.3575,
+        0.524375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.02375000000000005,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_l_4",
+      "position": [
+        -0.3575,
+        0.604375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999938,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_r_4",
+      "position": [
+        0.3575,
+        0.604375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.023749999999999938,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_l_5",
+      "position": [
+        -0.3575,
+        0.684375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.02375000000000005,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "level_light_r_5",
+      "position": [
+        0.3575,
+        0.684375,
+        0.0675
+      ],
+      "size": [
+        0.010000000000000009,
+        0.02375000000000005,
+        0.0050000000000000044
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "armor_panel_left",
+      "position": [
+        -0.375625,
+        0.540625,
+        -0.09375
+      ],
+      "size": [
+        0.00075,
+        0.420875,
+        0.19375
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "armor_foot_left",
+      "position": [
+        -0.33749999999999997,
+        0.065,
+        0.045
+      ],
+      "size": [
+        0.03,
+        0.055,
+        0.004
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "armor_panel_right",
+      "position": [
+        0.375625,
+        0.540625,
+        -0.09375
+      ],
+      "size": [
+        0.00075,
+        0.420875,
+        0.19375
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "armor_foot_right",
+      "position": [
+        0.33749999999999997,
+        0.065,
+        0.045
+      ],
+      "size": [
+        0.03,
+        0.055,
+        0.004
+      ],
+      "material": "WHITE_CONCRETE"
+    }
+  ],
+  "labels": [
+    {
+      "name": "label_0",
+      "text": "DRAGON TOWER",
+      "position": [
+        -2.7755575615628914e-17,
+        0.12375000000000003,
+        0.27324999999999994
+      ],
+      "width": 0.572,
+      "height": 0.03779999999999999,
+      "color": 14146002
+    },
+    {
+      "name": "label_1",
+      "text": "DRAGON TOWER",
+      "position": [
+        2.7755575615628914e-17,
+        0.8125,
+        0.058249999999999996
+      ],
+      "width": 0.30800000000000005,
+      "height": 0.054000000000000124,
+      "color": 14146002
+    }
+  ]
+}

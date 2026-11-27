@@ -1,0 +1,249 @@
+{
+  "blocks": [
+    {
+      "name": "pedestal_-1.31",
+      "position": [
+        -0.3275,
+        0.04,
+        0.0
+      ],
+      "size": [
+        0.05499999999999999,
+        0.045,
+        0.155
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "foot_-1.31",
+      "position": [
+        -0.3275,
+        0.00875,
+        0.0
+      ],
+      "size": [
+        0.08500000000000002,
+        0.0175,
+        0.19
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "pedestal_1.31",
+      "position": [
+        0.3275,
+        0.04,
+        0.0
+      ],
+      "size": [
+        0.05499999999999999,
+        0.045,
+        0.155
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "foot_1.31",
+      "position": [
+        0.3275,
+        0.00875,
+        0.0
+      ],
+      "size": [
+        0.08500000000000002,
+        0.0175,
+        0.19
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "lower_chassis",
+      "position": [
+        0.0,
+        0.07375000000000001,
+        0.0
+      ],
+      "size": [
+        0.72,
+        0.022500000000000006,
+        0.245
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "top_frame",
+      "position": [
+        0.0,
+        0.09625,
+        0.0
+      ],
+      "size": [
+        0.75,
+        0.022499999999999992,
+        0.275
+      ],
+      "material": "SMOOTH_QUARTZ"
+    },
+    {
+      "name": "recessed_playfield",
+      "position": [
+        0.0,
+        0.10975,
+        0.0
+      ],
+      "size": [
+        0.7,
+        0.004500000000000004,
+        0.225
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "front_light",
+      "position": [
+        0.0,
+        0.0925,
+        0.140875
+      ],
+      "size": [
+        0.715,
+        0.007500000000000007,
+        0.005749999999999977
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "left_light",
+      "position": [
+        -0.365,
+        0.1115,
+        0.0
+      ],
+      "size": [
+        0.007500000000000007,
+        0.007000000000000006,
+        0.24
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "right_light",
+      "position": [
+        0.365,
+        0.1115,
+        0.0
+      ],
+      "size": [
+        0.007500000000000007,
+        0.007000000000000006,
+        0.24
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "back_light",
+      "position": [
+        0.0,
+        0.1115,
+        -0.1275
+      ],
+      "size": [
+        0.715,
+        0.007000000000000006,
+        0.007500000000000007
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "end_cap_-1.3",
+      "position": [
+        -0.32499999999999996,
+        0.07375000000000001,
+        0.14
+      ],
+      "size": [
+        0.04999999999999999,
+        0.0175,
+        0.003999999999999976
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "end_cap_1.3",
+      "position": [
+        0.32499999999999996,
+        0.07375000000000001,
+        0.14
+      ],
+      "size": [
+        0.04999999999999999,
+        0.0175,
+        0.003999999999999976
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "left_support",
+      "position": [
+        -0.32,
+        0.2325,
+        -0.08249999999999999
+      ],
+      "size": [
+        0.03500000000000003,
+        0.25,
+        0.045
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "right_support",
+      "position": [
+        0.32,
+        0.2325,
+        -0.08249999999999999
+      ],
+      "size": [
+        0.03500000000000003,
+        0.25,
+        0.045
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "left_support_light",
+      "position": [
+        -0.32625000000000004,
+        0.20375,
+        -0.055999999999999994
+      ],
+      "size": [
+        0.007500000000000007,
+        0.16749999999999998,
+        0.005499999999999998
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "right_support_light",
+      "position": [
+        0.32625000000000004,
+        0.20375,
+        -0.055999999999999994
+      ],
+      "size": [
+        0.007500000000000007,
+        0.16749999999999998,
+        0.005499999999999998
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    }
+  ],
+  "labels": []
+}

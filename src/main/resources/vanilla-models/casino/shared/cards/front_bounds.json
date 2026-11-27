@@ -1,0 +1,19 @@
+{
+  "blocks": [
+    {
+      "name": "block_0",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size": [
+        1.0,
+        1.3333335,
+        0.01
+      ],
+      "material": "WHITE_CONCRETE"
+    }
+  ],
+  "labels": []
+}

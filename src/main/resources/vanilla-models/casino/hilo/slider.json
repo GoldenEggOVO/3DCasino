@@ -1,0 +1,61 @@
+{
+  "blocks": [
+    {
+      "name": "slider_base",
+      "position": [
+        0.0,
+        0.0,
+        -0.001375
+      ],
+      "size": [
+        0.065,
+        0.065,
+        0.00375
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slider_face",
+      "position": [
+        0.0,
+        0.0,
+        0.002
+      ],
+      "size": [
+        0.054,
+        0.054,
+        0.0024999999999999996
+      ],
+      "material": "ORANGE_CONCRETE"
+    },
+    {
+      "name": "grip_left",
+      "position": [
+        -0.0085,
+        0.0,
+        0.0038125
+      ],
+      "size": [
+        0.004499999999999999,
+        0.033,
+        0.0008750000000000003
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "grip_right",
+      "position": [
+        0.0085,
+        0.0,
+        0.0038125
+      ],
+      "size": [
+        0.004499999999999999,
+        0.033,
+        0.0008750000000000003
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    }
+  ],
+  "labels": []
+}

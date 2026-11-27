@@ -1,0 +1,279 @@
+{
+  "blocks": [
+    {
+      "name": "pedestal_-1.61",
+      "position": [
+        -0.40249999999999997,
+        0.09625,
+        0.0
+      ],
+      "size": [
+        0.05499999999999999,
+        0.15749999999999997,
+        0.405
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "foot_-1.61",
+      "position": [
+        -0.40249999999999997,
+        0.00875,
+        0.0
+      ],
+      "size": [
+        0.08500000000000002,
+        0.0175,
+        0.44
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "pedestal_1.61",
+      "position": [
+        0.40249999999999997,
+        0.09625,
+        0.0
+      ],
+      "size": [
+        0.05499999999999999,
+        0.15749999999999997,
+        0.405
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "foot_1.61",
+      "position": [
+        0.40249999999999997,
+        0.00875,
+        0.0
+      ],
+      "size": [
+        0.08500000000000002,
+        0.0175,
+        0.44
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "lower_chassis",
+      "position": [
+        0.0,
+        0.18625,
+        0.0
+      ],
+      "size": [
+        0.87,
+        0.02250000000000002,
+        0.495
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "top_frame",
+      "position": [
+        0.0,
+        0.20875,
+        0.0
+      ],
+      "size": [
+        0.9,
+        0.022499999999999992,
+        0.525
+      ],
+      "material": "SMOOTH_QUARTZ"
+    },
+    {
+      "name": "recessed_playfield",
+      "position": [
+        0.0,
+        0.22225,
+        0.0
+      ],
+      "size": [
+        0.85,
+        0.004500000000000004,
+        0.475
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "front_light",
+      "position": [
+        0.0,
+        0.20500000000000002,
+        0.265875
+      ],
+      "size": [
+        0.865,
+        0.007499999999999979,
+        0.005749999999999977
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "left_light",
+      "position": [
+        -0.44,
+        0.224,
+        0.0
+      ],
+      "size": [
+        0.007499999999999951,
+        0.007000000000000006,
+        0.49
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "right_light",
+      "position": [
+        0.44,
+        0.224,
+        0.0
+      ],
+      "size": [
+        0.007499999999999951,
+        0.007000000000000006,
+        0.49
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "back_light",
+      "position": [
+        0.0,
+        0.224,
+        -0.2525
+      ],
+      "size": [
+        0.865,
+        0.007000000000000006,
+        0.007499999999999979
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "end_cap_-1.6",
+      "position": [
+        -0.4,
+        0.18625,
+        0.265
+      ],
+      "size": [
+        0.04999999999999999,
+        0.017500000000000016,
+        0.0040000000000000036
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "end_cap_1.6",
+      "position": [
+        0.4,
+        0.18625,
+        0.265
+      ],
+      "size": [
+        0.04999999999999999,
+        0.017500000000000016,
+        0.0040000000000000036
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "felt",
+      "position": [
+        0.0,
+        0.227375,
+        0.0
+      ],
+      "size": [
+        0.835,
+        0.005250000000000005,
+        0.46
+      ],
+      "material": "CYAN_CONCRETE"
+    },
+    {
+      "name": "identity_rail",
+      "position": [
+        0.0,
+        0.21875,
+        0.274375
+      ],
+      "size": [
+        0.565,
+        0.02250000000000002,
+        0.036250000000000004
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "control_dock",
+      "position": [
+        0.0,
+        0.15515285,
+        0.323530275
+      ],
+      "size": [
+        0.52,
+        0.08331249999999998,
+        0.022281249999999975
+      ],
+      "material": "GRAY_CONCRETE",
+      "rotation": [
+        -34.99999998865456,
+        0,
+        0.0
+      ]
+    },
+    {
+      "name": "console_bracket_l",
+      "position": [
+        -0.21999999999999997,
+        0.15999999999999998,
+        0.28125
+      ],
+      "size": [
+        0.03,
+        0.03,
+        0.10750000000000001
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "console_bracket_r",
+      "position": [
+        0.21999999999999997,
+        0.15999999999999998,
+        0.28125
+      ],
+      "size": [
+        0.03,
+        0.03,
+        0.10750000000000001
+      ],
+      "material": "BLACK_CONCRETE"
+    }
+  ],
+  "labels": [
+    {
+      "name": "label_0",
+      "text": "BLACKJACK",
+      "position": [
+        0.0,
+        0.22,
+        0.29325
+      ],
+      "width": 0.44,
+      "height": 0.018899999999999997,
+      "color": 14146002
+    }
+  ]
+}

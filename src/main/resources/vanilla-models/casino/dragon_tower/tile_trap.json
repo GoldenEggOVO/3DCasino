@@ -1,0 +1,48 @@
+{
+  "blocks": [
+    {
+      "name": "tile_body",
+      "position": [
+        0.0,
+        0.0,
+        -0.004375000000000002
+      ],
+      "size": [
+        0.07,
+        0.07,
+        0.06125
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "tile_light",
+      "position": [
+        0.0,
+        0.0,
+        0.028874999999999998
+      ],
+      "size": [
+        0.065,
+        0.065,
+        0.004750000000000001
+      ],
+      "material": "RED_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "tile_face",
+      "position": [
+        0.0,
+        0.0,
+        0.03325
+      ],
+      "size": [
+        0.056,
+        0.056,
+        0.003500000000000003
+      ],
+      "material": "RED_CONCRETE"
+    }
+  ],
+  "labels": []
+}

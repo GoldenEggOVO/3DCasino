@@ -1,0 +1,18 @@
+language: en_US
+menu-enabled: true
+rendering:
+  # auto selects mixed with enabled CraftEngine, otherwise vanilla. Restart to apply.
+  mode: auto
+  resource-pack:
+    source: craftengine
+    url: ''
+    local:
+      bind-address: '0.0.0.0'
+      port: 8138
+      public-url: ''
+economy:
+  enabled: false
+  # Personal machine amounts start at 0. Limits include doubles.
+  stakes:
+    minimum: 1.0
+    maximum: 1000.0

@@ -1,0 +1,130 @@
+{
+  "cards.deal": {
+    "sounds": [
+      {
+        "name": "3dcasino:cards/deal/card_deal",
+        "stream": false
+      }
+    ]
+  },
+  "machine.button": {
+    "sounds": [
+      {
+        "name": "3dcasino:machine/button/machine_button",
+        "stream": false
+      }
+    ]
+  },
+  "machine.latch": {
+    "sounds": [
+      {
+        "name": "3dcasino:machine/latch/result_latch",
+        "stream": false
+      }
+    ]
+  },
+  "wheel.tick": {
+    "sounds": [
+      {
+        "name": "3dcasino:wheel/tick/approved_tick",
+        "stream": false
+      }
+    ]
+  },
+  "ball.contact": {
+    "sounds": [
+      {
+        "name": "3dcasino:ball/contact/contact_1",
+        "stream": false
+      },
+      {
+        "name": "3dcasino:ball/contact/contact_2",
+        "stream": false
+      },
+      {
+        "name": "3dcasino:ball/contact/contact_3",
+        "stream": false
+      }
+    ]
+  },
+  "ball.land": {
+    "sounds": [
+      {
+        "name": "3dcasino:ball/land/contact_1",
+        "stream": false
+      }
+    ]
+  },
+  "cards.play": {
+    "sounds": [
+      {
+        "name": "3dcasino:cards/play/card_play",
+        "stream": false
+      }
+    ]
+  },
+  "cards.flip": {
+    "sounds": [
+      {
+        "name": "3dcasino:cards/flip/card_fan_flip",
+        "stream": false
+      }
+    ]
+  },
+  "wheel.start": {
+    "sounds": [
+      {
+        "name": "3dcasino:wheel/start/wheel_start",
+        "stream": false
+      }
+    ]
+  },
+  "chips.collect": {
+    "sounds": [
+      {
+        "name": "3dcasino:chips/collect/chips_collect",
+        "stream": false
+      }
+    ]
+  },
+  "chips.bet": {
+    "sounds": [
+      {
+        "name": "3dcasino:chips/bet/chips_bet",
+        "stream": false
+      }
+    ]
+  },
+  "result.start": {
+    "sounds": [
+      {
+        "name": "3dcasino:result/start/start",
+        "stream": false
+      }
+    ]
+  },
+  "result.win": {
+    "sounds": [
+      {
+        "name": "3dcasino:result/win/win",
+        "stream": false
+      }
+    ]
+  },
+  "result.loss": {
+    "sounds": [
+      {
+        "name": "3dcasino:result/loss/loss",
+        "stream": false
+      }
+    ]
+  },
+  "result.even": {
+    "sounds": [
+      {
+        "name": "3dcasino:result/even/start",
+        "stream": false
+      }
+    ]
+  }
+}

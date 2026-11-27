@@ -1,0 +1,81 @@
+{
+  "gui_light": "front",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "3dcasino:item/casino/shared/materials/ivory",
+    "ivory": "3dcasino:item/casino/shared/materials/ivory",
+    "hearts_queen": "3dcasino:item/shared/playing_cards/poker_hearts_queen_face",
+    "back_blue_basic": "3dcasino:item/shared/playing_cards/poker_card_back_rear"
+  },
+  "elements": [
+    {
+      "name": "card",
+      "from": [
+        0.0,
+        -2.666668,
+        7.88
+      ],
+      "to": [
+        16.0,
+        18.666668,
+        8.08
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hearts_queen"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#back_blue_basic"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#ivory"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#ivory"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#ivory"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#ivory"
+        }
+      }
+    }
+  ]
+}

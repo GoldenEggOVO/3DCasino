@@ -1,0 +1,1108 @@
+{
+  "note": "Casino artwork provenance. Shared resource-pack cards use George Blackwell artwork. Native head properties retain Mojang signatures and texture URLs.",
+  "files": [
+    {
+      "file": "resource-pack/originals/shared/sounds/cards/card_draw_1.ogg",
+      "sha256": "006cf9822d15d7063f8899e56041f41646df30adb6fbd8b974ee5d5420012690",
+      "url": "https://kenney.nl/assets/casino-audio",
+      "license": "CC0-1.0",
+      "reused_from": "3DGames/resource-pack/assets/3dgames/sounds/cards/draw/card_draw_1.ogg",
+      "modification": "Existing mono conversion copied byte-for-byte for the standalone cards.deal event; original source OGG retained unchanged.",
+      "archive_file": "Audio/card-slide-1.ogg"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_back_blue.png",
+      "sha256": "d8fe787ed51505a62d898d344c3eb6900399f587c98156f0833c4ed695187cfb",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "back_blue_basic.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_10.png",
+      "sha256": "1573d380d8be8b55fc0807ea192819418bd6562eff91567bde6fff04a10f6208",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "10_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_2.png",
+      "sha256": "b702c50fd8a3f47d9dc38a6ec586cb6d3f025e350c098048dd577f5042cf59a9",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "2_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_3.png",
+      "sha256": "15c37ba32e114fb4e8a3b1f34c59c3901faab99e883f3bf08422111ec8f63cd4",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "3_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_4.png",
+      "sha256": "7185a6bfcb3d6c4c37fb2c1b537996dbc0583f2146806194cd1453ee1a88a360",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "4_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_5.png",
+      "sha256": "adaf22064e1896a36471115df9615796cf3b9353b4eac0b2910b783122e9a5c2",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "5_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_6.png",
+      "sha256": "2890df5691f0364533f60ac086b25a31c2c6f23cffb4b822efa6cd150bce24c1",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "6_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_7.png",
+      "sha256": "a106d46f286147366356f383a5532e9b60137deece491764a0b294dfbf73a1ff",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "7_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_8.png",
+      "sha256": "fc26f2ae7e88f65f98f71a024b8a1aa7ac853999f5d706171716cfa25ae068b2",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "8_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_9.png",
+      "sha256": "1f77bab09078b507fce0787a10ca1d9d57300b195968857d0eec9aaa2795c77f",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "9_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_ace.png",
+      "sha256": "fe546ebc72dd5b808ec84634627c7b1925180231b71c4f6447353da920cf21b3",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "ace_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_jack.png",
+      "sha256": "c0793000d98840740e1e6a848b559e7a4a5c1712605b27f95dc409083552504c",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "jack_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_king.png",
+      "sha256": "b36c8af9783fbf8a6940c5b12956f20d91b1ff7041e5eea1814a61e5d5e33505",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "king_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_clubs_queen.png",
+      "sha256": "3517e9de050c646b03c0f843e0c83705ebf4b018a3399d9ca9e2a5f7b12052b1",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "queen_clubs.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_10.png",
+      "sha256": "1441e45561077772e15de7a75963fc66ca2bc3f3ef47b2af0e654342dff3c311",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "10_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_2.png",
+      "sha256": "5cbf720e19b75ef3104653e4f011a4d461920cf508540e4b7236e00c5f844963",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "2_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_3.png",
+      "sha256": "eb13c2bce40f56bd01b3542c225f1d9e7ef4aa84d9af33994d2f7b5b9adebbd0",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "3_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_4.png",
+      "sha256": "ceb02e74bcef2a599c249f0fb02efb54137c275b70e34ff3bf1ca35dba4c70aa",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "4_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_5.png",
+      "sha256": "3f93b12d3596dc4852a68625f38ec235c6de78b27c508b65e472b6d319a466fe",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "5_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_6.png",
+      "sha256": "a609392c00614a1d817779a9a154accda82b81af6509e398208e0449e8e52855",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "6_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_7.png",
+      "sha256": "a46d0ddb1371116d34c5c40b692a10805894bce51aa77a46bc0d363291b2a45b",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "7_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_8.png",
+      "sha256": "9e1174c2d01706fc28186147c2b19b41b1eba291889e6c7e184c8fa8b1e543de",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "8_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_9.png",
+      "sha256": "222bd0b0d29e8957e14dff532138970641cafeec720a376851bde90a03928f68",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "9_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_ace.png",
+      "sha256": "faa62dfdfba0ae87b3f5ee6ba59580450d8535660901c56e67c2428ae8353c7d",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "ace_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_jack.png",
+      "sha256": "794c3421969e00551cf89c279a5f1d6f7f74a439864ff32fa6371489dc44c65e",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "jack_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_king.png",
+      "sha256": "f90fa0342801a1718e3ae091af580869b1eb9de9cd253aa0f68e92e95d781b18",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "king_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_diamonds_queen.png",
+      "sha256": "8e7a781f68bd8de1b4b9e0dfee4ad9d5cdd0d8b973473db30637a60bb100ba54",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "queen_diamonds.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_10.png",
+      "sha256": "be335a506b0e9f46b05e4d08a1d26e794893d0330b39de1f954cc81c4b4666ac",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "10_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_2.png",
+      "sha256": "c3dc3c07aa89ee319d698eda650b6fbfd418c023bb7d569dc3d0899ef46fe722",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "2_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_3.png",
+      "sha256": "668420d528766b5bc05bb585592fbf40a3bbd2d2968390bf1f84a275172342d8",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "3_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_4.png",
+      "sha256": "0924b9a6dfcf1db63da7a7c5f18ff199894ff602aaab3e2167fbe801d0f82ab9",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "4_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_5.png",
+      "sha256": "09583d832834c13dc9c40d81f9552740168a32c60c03531bdfccb6ef18457f57",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "5_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_6.png",
+      "sha256": "a5017529be982c66be8159f910de5c47c14eb98b6d650acdc66541f00f50e5ab",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "6_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_7.png",
+      "sha256": "c7dfca4ada37e0224942aae6f0d5300673857b1236cf5052a5aa1f321227b7ce",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "7_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_8.png",
+      "sha256": "9dcef19b64eeb1494fcc693f6114bfa8bee99cb7e4b2e4c2725a4ae8348d4f5e",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "8_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_9.png",
+      "sha256": "8354ca4d9ac6d925b0bae44c95c93d198a0dea8e7c8d37325762884579901c54",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "9_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_ace.png",
+      "sha256": "476e3b35ee85077b408f85f1c5d71e2dfee813ddb87cf80fa2e5f4dff2a9d777",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "ace_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_jack.png",
+      "sha256": "afae37761f7edd1f52ffe9b05de4fb3620e2b74d76db0531144751605229c918",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "jack_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_king.png",
+      "sha256": "c5d6fd43a6c12d883d248635b971b3465a6335524b0ffa4d9ce81439220586cb",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "king_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_hearts_queen.png",
+      "sha256": "5846f703280a450532d38a6ebf37d9f155a19824a7f5f50120e30b70cb4b0449",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "queen_hearts.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_joker.png",
+      "sha256": "a7f636ecffeb1be081b12023aba1f31f09ddb1e967bf1724488ed5da0c32bd89",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "joker.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_10.png",
+      "sha256": "1337b18c31701a91e103150eb2043d1ff6da826258c4333480068aef73f13304",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "10_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_2.png",
+      "sha256": "b59bd560cba8d74172bc1f5391380c55490ab8ae200258bc7282e875cd3c4749",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "2_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_3.png",
+      "sha256": "de3a52d528f7548f0fedbd6a46d9e78cc37307a07b807960ffbeb40897e22a4e",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "3_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_4.png",
+      "sha256": "1cb457884504b83ee8c745214077a21c8d10e9f9b7efd970c94818bd9c1c8503",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "4_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_5.png",
+      "sha256": "5588f76fb9b0656eb68ac42673a4c38c5cbc25abc9ad11025cd67dbf269b5ee2",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "5_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_6.png",
+      "sha256": "29a314577bd782ce8cd20665244c15493a15521a8ba251054c6bf06563a7e72a",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "6_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_7.png",
+      "sha256": "d5c2ae887372df5aaf86420a3f93d86879907faab1252ec83aa578813e2c762c",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "7_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_8.png",
+      "sha256": "36d61c4c5b3f64e17308984e658411f864ff51cd54305f351ae51799e6dd22f9",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "8_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_9.png",
+      "sha256": "e0e284d2cf6390d243378331ba61a5690ac42b0048aecb305f06f29c5feec8bb",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "9_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_ace.png",
+      "sha256": "a616de55fe6ec8b83698a865e2252d594f4f6ae8b3768890b8c707a57d67844b",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "ace_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_jack.png",
+      "sha256": "6b145adc7f978b0d4f88bbddf5f5f009eab2bdcd07a15ed9baa20d367bcd9ff6",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "jack_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_king.png",
+      "sha256": "0622840e7d601e7385dbcce41f31604a740bd997db9ef8fd2a4b34e436c9fa05",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "king_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/textures/playing-cards/poker_spades_queen.png",
+      "sha256": "5cddd84a1e456732550fa03d012207121014595743cb2ffbe16895b30cc0b2f8",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "archive_file": "queen_spades.png",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/casino/card-slide-1.ogg",
+      "archive_file": "Audio/card-slide-1.ogg",
+      "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+      "sha256": "006cf9822d15d7063f8899e56041f41646df30adb6fbd8b974ee5d5420012690",
+      "url": "https://kenney.nl/assets/casino-audio",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/casino/card-slide-2.ogg",
+      "archive_file": "Audio/card-slide-2.ogg",
+      "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+      "sha256": "e674a1679ec87b507047fe012d068ad2c412125f56186f0e732684705c2a6888",
+      "url": "https://kenney.nl/assets/casino-audio",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/casino/card-slide-3.ogg",
+      "archive_file": "Audio/card-slide-3.ogg",
+      "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+      "sha256": "af2ab62656cb3df73316ce5771b8ee1111a840962b21607e3202151e7413c52c",
+      "url": "https://kenney.nl/assets/casino-audio",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/interface/click_001.ogg",
+      "archive_file": "Audio/click_001.ogg",
+      "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+      "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9",
+      "url": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/interface/click_005.ogg",
+      "archive_file": "Audio/click_005.ogg",
+      "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+      "sha256": "a3ee7ebb036bc3cdc218ae52bb27548c4f49bcf07505274f8b61b1af8236acc2",
+      "url": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactMetal_light_000.ogg",
+      "archive_file": "Audio/impactMetal_light_000.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "33b5e6e37c6e9d54e07bf5a89b12c76e879f40c1ea83cdd82714df1d6f9fec6d",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactMetal_light_001.ogg",
+      "archive_file": "Audio/impactMetal_light_001.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "fba69c467ddd85da7b1d82e259f936b876d9ba6a3d6f1b24bdd10468e46bfe08",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactWood_light_003.ogg",
+      "archive_file": "Audio/impactWood_light_003.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "cdfbe8af2fe7ff9ee28f337a0a989deee0f327620da456c8413644880e9d0004",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactWood_light_004.ogg",
+      "archive_file": "Audio/impactWood_light_004.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "e10009f67ddaeb3a59a3e1129cfc1615d84ba60ab578eae07e7092ac223f099c",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactGlass_light_003.ogg",
+      "archive_file": "Audio/impactGlass_light_003.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "765290ce32fa108c939a0dbd6fbacbcd05abde622b57b708eb8a64058ef4225a",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactGlass_light_004.ogg",
+      "archive_file": "Audio/impactGlass_light_004.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "f535b7cb7835400d8d28bcf9e1cf047ce3c0eb7a6456bdb1a4a27acbec1ed2cb",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactPlate_light_001.ogg",
+      "archive_file": "Audio/impactPlate_light_001.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "947915c2eb6ac57ee08fd3a48b297fd108d69abc72076e79882c21cad0eef56e",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    },
+    {
+      "file": "resource-pack/originals/shared/sounds/physical/impact/impactPlate_light_004.ogg",
+      "archive_file": "Audio/impactPlate_light_004.ogg",
+      "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+      "sha256": "9cb33b0c0cce948313f078b60769d2f8e4075472494fc8f8129aa4a23c951897",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0"
+    }
+  ],
+  "audio_notices": {
+    "card_play": "# Card play sample\r\n\r\nThe user supplied `oxidvideos-taking-playing-card-522520.mp3` for the shared card play sound.\r\nOriginal author indicated by the supplied filename: OxidVideos. The original download page and license receipt were not supplied.\r\nThe resource pack uses a mono OGG conversion with peak attenuation; the original MP3 is retained for reproducible builds.\r\n",
+    "kenney": {
+      "sources": "# Kenney audio sources\r\n\r\nSelected original OGG files from Kenney, licensed under CC0 1.0.\r\nThe original license notices are retained alongside these sources and included in the generated pack.\r\n\r\n- Casino Audio 1.1: https://kenney.nl/assets/casino-audio\r\n- Interface Sounds 1.0: https://kenney.nl/assets/interface-sounds\r\n- Impact Sounds 1.0: https://kenney.nl/assets/impact-sounds\r\n- License: https://creativecommons.org/publicdomain/zero/1.0/\r\n\r\n`sound_events.json` maps shared gameplay events to their original source filenames.\r\nThe pack builder converts positional samples to mono and only attenuates peaks.\r\nMinecraft chooses one variation per event; variations never play simultaneously.\r\nThese samples do not replace the user-provided card play recording or the existing Mahjong recordings.\r\n",
+      "licenses": {
+        "casino": "\t\r\n\r\n\tCasino Audio (1.1)\r\n\r\n\tby  Kenney Vleugels (Kenney.nl)\r\n\r\n\t\t\t------------------------------\r\n\r\n\tLicense (Creative Commons Zero, CC0)\r\n\thttp://creativecommons.org/publicdomain/zero/1.0/\r\n\r\n\tYou may use these assets in personal and commercial projects.\r\n\tCredit (Kenney or www.kenney.nl) would be nice but is not mandatory.\r\n\r\n\t\t\t------------------------------\r\n\r\n\tDonate:   http://support.kenney.nl\r\n\tRequest:  http://request.kenney.nl\r\n\r\n\tFollow on Twitter for updates:\r\n\t@KenneyNL",
+        "interface": "\t\r\n\r\n\tInterface Sounds (1.0)\r\n\r\n\tCreated/distributed by Kenney (www.kenney.nl)\r\n\tCreation date: 11-02-2020\r\n\r\n\t\t\t------------------------------\r\n\r\n\tLicense: (Creative Commons Zero, CC0)\r\n\thttp://creativecommons.org/publicdomain/zero/1.0/\r\n\r\n\tThis content is free to use in personal, educational and commercial projects.\r\r\n\tSupport us by crediting Kenney or www.kenney.nl (this is not mandatory)\r\n\r\n\t\t\t------------------------------\r\n\r\n\tDonate:   http://support.kenney.nl\r\n\tPatreon:  http://patreon.com/kenney/\r\n\r\n\tFollow on Twitter for updates:\r\n\thttp://twitter.com/KenneyNL",
+        "impact": "\t\r\n\r\n\tImpact Sounds (1.0)\r\n\r\n\tCreated/distributed by Kenney (www.kenney.nl)\r\n\tCreation date: 19-12-2019\r\n\r\n\t\t\t------------------------------\r\n\r\n\tLicense: (Creative Commons Zero, CC0)\r\n\thttp://creativecommons.org/publicdomain/zero/1.0/\r\n\r\n\tThis content is free to use in personal, educational and commercial projects.\r\r\n\tSupport us by crediting Kenney or www.kenney.nl (this is not mandatory)\r\n\r\n\t\t\t------------------------------\r\n\r\n\tDonate:   http://support.kenney.nl\r\n\tRequest:  http://request.kenney.nl\r\n\tPatreon:  http://patreon.com/kenney/\r\n\r\n\tFollow on Twitter for updates:\r\n\thttp://twitter.com/KenneyNL"
+      }
+    }
+  },
+  "artwork_notices": {
+    "mahjong_graphic": {
+      "repository": "https://github.com/lietxia/mahjong_graphic",
+      "revision": "3e275804ff58325306710bef3a7406860444bc6a",
+      "license": "這些字型爲自由軟件，您可以自由使用、複製和分發它。不論是否修改過它，不論作爲商業使用還是作爲非商業性使用，都是許可的。 我們按照這些字型的「現狀」釋出它們，然而我們並無責任確保這一點。\n\nThese fonts are free softwares. Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially. THESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.\n\nこれらのフォントはフリー（自由な）ソフトウエアです。 あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。",
+      "selection": "Manzu, first pinzu style, first souzu style, honors, flowers and red fives; blank white dragon is generated."
+    },
+    "xiangqi": {
+      "license": "Public domain (PD-self)",
+      "author": "Inductiveload; current vector revision by Wj654cj86",
+      "selection": "First red piece and third black piece from each traditional-character SVG.",
+      "notice": "Xiangqi artwork by Inductiveload, with current vector revisions by Wj654cj86, from Wikimedia Commons. The author released the work into the public domain worldwide. File pages and exact imported hashes are recorded in the source manifest."
+    },
+    "playing_cards": {
+      "title": "Pixel Playing Cards Pack",
+      "author": "George Blackwell",
+      "url": "https://georgeblackwell.itch.io/playing-cards-sprite-pack",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "archive_sha256": "e0bd9ea41be8c3c05dc9933875b85b731e6f691866c4d5400199fb5cc82221f3",
+      "notice": "Pixel Playing Cards Pack by George Blackwell.\nSource: https://georgeblackwell.itch.io/playing-cards-sprite-pack\nLicensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/\nChanges: original 60x84 pixel faces are enlarged by nearest-neighbor 2x without added padding, and displayed at their original aspect ratio. Casino reuses the shared faces and backs. The Tabletop large joker uses red corner lettering; the original joker portrait is retained.\n"
+    },
+    "shogi": {
+      "source": "https://github.com/Kadagaden/shogi-pieces/tree/3a7643b8f6aa9910b360b61e062961e70213c6cc/2-kanji_red_wood",
+      "commit": "3a7643b8f6aa9910b360b61e062961e70213c6cc",
+      "authors": [
+        "Kadagaden",
+        "Hari Seldon"
+      ],
+      "licenses": [
+        "https://creativecommons.org/licenses/by/4.0/",
+        "https://creativecommons.org/licenses/by-sa/3.0/"
+      ],
+      "modifications": "SVG originals rasterized to 128x128 RGBA without changing the artwork colors; opposite orientation reuses the same texture; five-sided 3D carrier models added."
+    }
+  },
+  "minecraft_block_materials": {
+    "source": "Minecraft Java Edition 26.2 client, assets/minecraft/textures/block/",
+    "copyright": "Mojang / Microsoft; separate from the GPL plugin code",
+    "files": [
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_blue_terracotta.png",
+        "sha256": "99b4ec0a8a02a9d609d4987cbb7ba594a59f93c76b5fd98e3a1f12c2df1f9a70"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_brown_concrete.png",
+        "sha256": "a616865ca284efd841d1e469ff9bf8a0ad692ad8219642aca3639c50224268b4"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_brown_terracotta.png",
+        "sha256": "e162788c4a41a06711dcef4572ca4f4dfee090463fdd0d523ff98d00458b1daf"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_cyan_terracotta.png",
+        "sha256": "22125696599d357cbfc6de1dcca0ee73f47269bfe1532d6b2cc7cf56f5aeda76"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_dark_oak_planks.png",
+        "sha256": "665f44b119f5a21711c4cb83749d871635134c001cb0c14761c4f02a40dd8645"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_green_terracotta.png",
+        "sha256": "ffe10089bcef9873c74f18be35e605c5d035f472c06bf677746d39ff8a656c07"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_light_blue_terracotta.png",
+        "sha256": "513dffd0886a88bb5ad9f2efa317e4701673a939e1630cbe9fdc4f488a63c40e"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_lime_terracotta.png",
+        "sha256": "f4e0b8ac372c252afbbd2ac00650ca9386bf3571ca06cd386060b980d03466c9"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_orange_terracotta.png",
+        "sha256": "3074d90b0a27d1c149df2f3eacc9c6895c4cc0548999f864146dc18f64bcab5a"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_pink_terracotta.png",
+        "sha256": "58a811b050b61eda8ae84743d04f70e97dc485750c6858873cce934e95d98c74"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_red_terracotta.png",
+        "sha256": "e531a94e310f4f6b1ec9d07ed990f628b724a2f7f5040935162c9ca30c38fa93"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_smooth_sandstone.png",
+        "sha256": "41a5965dbf8a1505ab7ffd9984a16bad566c907c513d5638d5e8260cb5916646"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_stripped_dark_oak_log.png",
+        "sha256": "23b5b04b273a99c1f645b6a043af11b4d63a07535fe66ebf7e612a623b99d330"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_yellow_terracotta.png",
+        "sha256": "7c00bf901f78ad628a06335d47310a6b18c1419243d4150e32cdf01d51bafca6"
+      },
+      {
+        "file": "resource-pack/assets/3dcasino/textures/item/shared/materials/material_blue_concrete.png",
+        "sha256": "5053668a287cc6638cc352ea2d3dd89847f04e7f2637cbd86885e519ba72d16e",
+        "modification": "Solid RGB material; original alpha and dimensions retained."
+      }
+    ]
+  },
+  "physical_audio": {
+    "title": "Crisp physical tabletop actions",
+    "license": "CC0-1.0",
+    "notice": "Independent Kenney recordings selected from local source archives. Mono downmix, high-pass filtering, attack-preserving trim, short fade and peak normalization; no pitch-shift variants. Stone uses ceramic plate impacts and plastic pegs use casino chip contacts as foley substitutes; no Nintendo recordings.",
+    "samples": []
+  },
+  "approved_audio": {
+    "title": "Immersive tabletop foley, accepted audition",
+    "revision": "2026-10-31",
+    "samples": [
+      {
+        "event": "cards.deal",
+        "audition_number": 11,
+        "file": "resource-pack/originals/shared/sounds/approved/card_deal.wav",
+        "sha256": "a0fdb8802891cddb1b332d626a6258d868526407242b522a4a4d76924eb2a353",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/cards/deal/card_deal.ogg",
+        "derived_sha256": "4607adb1904a7cdc2a6779715bc8b4445bc96a1c8c1f34bbc2d929e802a70fe7",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "cards.play",
+        "audition_number": 12,
+        "file": "resource-pack/originals/shared/sounds/approved/card_play.wav",
+        "sha256": "8b4a60876da8833b1a3203059a88ae1d924156bd6b8074407c23662275db2a29",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/cards/play/card_play.ogg",
+        "derived_sha256": "c2593e5a6a281f76dcffb1b099b4c8134724c913fddc9502bd60f62f5173813c",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "cards.flip",
+        "audition_number": 13,
+        "file": "resource-pack/originals/shared/sounds/approved/card_fan_flip.wav",
+        "sha256": "c395e06b2ef31119b862d254dcdc54a5bc25a182b572a2631ab844a9cf8bc4d9",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/cards/flip/card_fan_flip.ogg",
+        "derived_sha256": "0b20ff60031fadc4d9f3d5c701226bf5a2b9d55782d30411d5adfb9ef3d3c6b2",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "machine.button",
+        "audition_number": 15,
+        "file": "resource-pack/originals/shared/sounds/approved/machine_button.wav",
+        "sha256": "e4311951e3cf932f13c07eceb6302f3577e34f040ede7f9037f5bd25046f13bf",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/machine/button/machine_button.ogg",
+        "derived_sha256": "da169a929a94ed16601763a4d276c9c1d9532d9d70da2393593d97a5f514409a",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "machine.latch",
+        "audition_number": 41,
+        "file": "resource-pack/originals/shared/sounds/approved/result_latch.wav",
+        "sha256": "0edb59476d8820bf61b930d4787d7e3d6355f301b2a2d19aad6d7e99c01a64e1",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/machine/latch/result_latch.ogg",
+        "derived_sha256": "6ce652f699e97470cc22c47d319d2e9203a79e26e923291190d22dfa52556b5d",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "wheel.start",
+        "audition_number": 40,
+        "file": "resource-pack/originals/shared/sounds/approved/wheel_start.wav",
+        "sha256": "57afbecf1547a55dfdb571980d934024ed39ddfd806d900392d23b164f236fee",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/wheel/start/wheel_start.ogg",
+        "derived_sha256": "b91fae255a5cd3b42f037c4e5b24b59a2b013dafe2ccd2472c1b974e9cdba4a8",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "chips.collect",
+        "audition_number": 18,
+        "file": "resource-pack/originals/shared/sounds/approved/chips_collect.wav",
+        "sha256": "3557cd2c253e16c38648cea456d679ae5d5be30c338c3f360b02b4acf7dfca0e",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/chips/collect/chips_collect.ogg",
+        "derived_sha256": "b78f1866d97e762ce3918b58514d48b8e13f5bb06a7e5e1512454b42080a39f5",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "chips.bet",
+        "audition_number": 39,
+        "file": "resource-pack/originals/shared/sounds/approved/chips_bet.wav",
+        "sha256": "04170ddd121a3fb2687de99ba5d877f103e9bf925cf83f4228507002ef20382c",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/chips/bet/chips_bet.ogg",
+        "derived_sha256": "73207aa2a3b15f238aaca3328aed5f6efc265f70c7974010f35377caceb2548a",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "result.start",
+        "audition_number": 19,
+        "file": "resource-pack/originals/shared/sounds/approved/start.wav",
+        "sha256": "7f424fd264b8d7da6ee6cb49523ba1ac7022128125566384b5994428b27a2db4",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/result/start/start.ogg",
+        "derived_sha256": "668a9e11164cd6cf118462d640fb7d0b855639d98bcd97557b4d405fce4c526f",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "result.win",
+        "audition_number": 20,
+        "file": "resource-pack/originals/shared/sounds/approved/win.wav",
+        "sha256": "61df62f8e8220c304d35199361eddbe1a62c73467ddc38cead00dd6f7a7295bb",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/result/win/win.ogg",
+        "derived_sha256": "2efe2d8c70572483bbc7678504b322e0343d0776e12e7d823e0f8b591043d6e1",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "result.loss",
+        "audition_number": 21,
+        "file": "resource-pack/originals/shared/sounds/approved/loss.wav",
+        "sha256": "e53cd3028e4601133624a49e8896f2ae63e2844b0913d9f4916c9cb0ad9aca8e",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/result/loss/loss.ogg",
+        "derived_sha256": "fc6f9c96c3cd7b8740ee783d55997321ab89d93b098ca92f7e9754ca2134be19",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "result.even",
+        "audition_number": 19,
+        "file": "resource-pack/originals/shared/sounds/approved/start.wav",
+        "sha256": "7f424fd264b8d7da6ee6cb49523ba1ac7022128125566384b5994428b27a2db4",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/result/even/start.ogg",
+        "derived_sha256": "d4cc01b4e9c5b82c60c9dc8b023e25bf53bb22ca389c90d550d8cd5dba6b5927",
+        "method": "Approved layered foley composition; mono dry master",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "ball.contact",
+        "file": "resource-pack/originals/shared/sounds/approved/ball_contact_1.wav",
+        "sha256": "1675eab0f24db30b752b42cda17bac85e5284ddd1760c26a7d0f560ef223c898",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/ball/contact/contact_1.ogg",
+        "derived_sha256": "a8372a5a1ab79527756b76fb05f459185e23f7b141b137a6a8c0a5c7276eb797",
+        "method": "Single collision atom from approved audition",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "ball.contact",
+        "file": "resource-pack/originals/shared/sounds/approved/ball_contact_2.wav",
+        "sha256": "b58c34eb3fdc5625500e6168a8f3c1fc6c6c0bf45b9a9c8ebbb5e13d06445f59",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/ball/contact/contact_2.ogg",
+        "derived_sha256": "b3d7674cd1a273ade472bb0b42e363a79c6b343f71f54e22303152007d7a7de2",
+        "method": "Single collision atom from approved audition",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "ball.contact",
+        "file": "resource-pack/originals/shared/sounds/approved/ball_contact_3.wav",
+        "sha256": "de6099d339e080f70fa4be1c2a83b1fc3c2808ff5e826d7cf37e69462955eee9",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/ball/contact/contact_3.ogg",
+        "derived_sha256": "bc904508d592bb73121bddfd5ecd7f00fd6bfb9a8df972ce6c4e4063e6d51184",
+        "method": "Single collision atom from approved audition",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "ball.land",
+        "file": "resource-pack/originals/shared/sounds/approved/ball_land_1.wav",
+        "sha256": "3c1230a66428cc682fb6dc0747fbbddeffb6d6d29a01bb85630ca695d20ffda6",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/ball/land/contact_1.ogg",
+        "derived_sha256": "18e9ca9258e6233c6994fcebe1eb8060f72be978be3aeb719de521c57f8aa42f",
+        "method": "Single collision atom from approved audition",
+        "license": "Kenney source recordings: CC0-1.0"
+      },
+      {
+        "event": "wheel.tick",
+        "file": "resource-pack/originals/shared/sounds/approved/wheel_tick.wav",
+        "sha256": "c2cf0281d33e8f1230ac6e59057b4faa348177f63c8e61f10b8da04a80dfd8d9",
+        "derived_file": "resource-pack/assets/3dcasino/sounds/wheel/tick/approved_tick.ogg",
+        "derived_sha256": "638f395511d9455ee58c6d6025f050733fe2e7ff79399687d87d7740c9e45538",
+        "method": "One ratchet contact from approved wheel slowdown",
+        "license": "Kenney source recordings: CC0-1.0"
+      }
+    ],
+    "source_recordings": {
+      "impact/impactWood_light_000.ogg": {
+        "sha256": "eb45e35b4bed784d3f120de4afec4b0d6ac09d9e143cce8cfcb7d739e1b1f3c3",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactWood_light_000.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactWood_light_001.ogg": {
+        "sha256": "4b76bf3ccc8e60d19188f3165b778a7817786faa6887c55d9049bcbeef3b425f",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactWood_light_001.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactWood_light_002.ogg": {
+        "sha256": "b183cf7a5bd783817e0e4b82af34ac6658fa1927049089dadc8b15c2ecc771dc",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactWood_light_002.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactPlate_light_000.ogg": {
+        "sha256": "6e797cf8a5bfc52d7ed5eb47c227974c1cf2a674954fec5b539cea7d62c7282c",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactPlate_light_000.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactPlate_light_002.ogg": {
+        "sha256": "8ac5869ea434cf0d364872774efe70b2d666a4f02ba35ddfc1e051d336721be8",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactPlate_light_002.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactPlate_light_003.ogg": {
+        "sha256": "dbfb7c1d002576696df3e9a43d6639ee3f342068398b5e7b55bc2389d20508a9",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactPlate_light_003.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-collide-1.ogg": {
+        "sha256": "f41b3d106360fc68ebc061a211d4265b4cb5fa1fbe86e4d57d3673510e2c3784",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-collide-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-collide-2.ogg": {
+        "sha256": "2a10c5ff4b2fbaa55a317fc258ddce3fec85bd26db2d3c2ad298b3b33ce23bc6",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-collide-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-collide-3.ogg": {
+        "sha256": "1c5e885f72b64c38fff7ef05579e49310e7acf026cf123ffb65fffb57fb06e1c",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-collide-3.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-collide-4.ogg": {
+        "sha256": "1ffa34af64adc62fce583c5aa9a3c98287b1673ef191576a5571f1ffd39529dd",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-collide-4.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactWood_light_003.ogg": {
+        "sha256": "cdfbe8af2fe7ff9ee28f337a0a989deee0f327620da456c8413644880e9d0004",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactWood_light_003.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactWood_light_004.ogg": {
+        "sha256": "e10009f67ddaeb3a59a3e1129cfc1615d84ba60ab578eae07e7092ac223f099c",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactWood_light_004.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chip-lay-1.ogg": {
+        "sha256": "4b2111252ccb64eed67f171e061053849cfbb29873536c03948646f244a3905c",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chip-lay-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chip-lay-2.ogg": {
+        "sha256": "8ca8b2d450741c04ed7b4ba51ed3f73c2400c8b3dbe83b974be4fe4774a76712",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chip-lay-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chip-lay-3.ogg": {
+        "sha256": "bf24ebb417b6279568800dffdb0205d3ec8854c7efe179e8964755a6341727aa",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chip-lay-3.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/click_001.ogg": {
+        "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/click_001.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/click_002.ogg": {
+        "sha256": "adcd1f4adc35f1b41bc1b5bbefeff7aa44f2f3f0d96d3199b544140c7c1e761c",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/click_002.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/click_005.ogg": {
+        "sha256": "a3ee7ebb036bc3cdc218ae52bb27548c4f49bcf07505274f8b61b1af8236acc2",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/click_005.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactWood_medium_003.ogg": {
+        "sha256": "635c37cfcd854b187d643d450ff0397798dcc29ae94da32192b814fae6bd854c",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactWood_medium_003.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/dice-shake-2.ogg": {
+        "sha256": "47e8e2cb0adb95bcd7348b58db8dc2bbfe3c553e50a4e9ef007e67891ed51ca2",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/dice-shake-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/die-throw-2.ogg": {
+        "sha256": "a2702cfe14d24aab302483a1499daa88474a4af4acd794b58d97f4af16333b3d",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/die-throw-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/dice-throw-3.ogg": {
+        "sha256": "09c13d35a9a30bfce31a5e9bca94adc5be189ddecd0b4500237d54c7fd05227c",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/dice-throw-3.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-slide-1.ogg": {
+        "sha256": "006cf9822d15d7063f8899e56041f41646df30adb6fbd8b974ee5d5420012690",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-slide-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-slide-3.ogg": {
+        "sha256": "af2ab62656cb3df73316ce5771b8ee1111a840962b21607e3202151e7413c52c",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-slide-3.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-slide-5.ogg": {
+        "sha256": "8638ab0c17f029aded0e27a4f9b9bb9f8c621b19a6e9975e855cb40ea63e2201",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-slide-5.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-place-1.ogg": {
+        "sha256": "d8f26c33a665dcbdcc6f632f6050bc9dd548feb0d4942d4547615926d3926810",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-place-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-place-2.ogg": {
+        "sha256": "903d5050718595e87864dd755643b476ab1a5533080dcc2dddc72570d33ba9f8",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-place-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-place-4.ogg": {
+        "sha256": "18e3ba713b7259605fd27cdc048085ed56cf86b32403f070b6cb125019f77183",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-place-4.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-fan-1.ogg": {
+        "sha256": "7a9758ccad8899baef1b9f60b4064e4baa724a548293832fdaea07e6e07e638d",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-fan-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-shuffle.ogg": {
+        "sha256": "96c84883a30845ede723a4cf2e8369e9837e7dd4e0d4eb0212b0a7ed21b0f544",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-shuffle.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-shove-2.ogg": {
+        "sha256": "8e95c1d3ae94b5b91bc663432ad7c3bf4e03a541c22ec10fa51c65fe0e29054b",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-shove-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "impact/impactMetal_light_001.ogg": {
+        "sha256": "fba69c467ddd85da7b1d82e259f936b876d9ba6a3d6f1b24bdd10468e46bfe08",
+        "archive_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+        "archive_member": "Audio/impactMetal_light_001.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-stack-1.ogg": {
+        "sha256": "12bf175b9afcea112175b241ad3336c6244ac5fdcdff8b5942ecc03f2225e0c4",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-stack-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-stack-3.ogg": {
+        "sha256": "48cc0f01e2b62be7677f2e8c02177906cab80e96fa8176fa05b3ced35bc2a9c2",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-stack-3.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-stack-5.ogg": {
+        "sha256": "42dd800e3e24bbd07d3ebfc86c44b6500d376641e30270dc363d95a73e90b56e",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-stack-5.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-handle-1.ogg": {
+        "sha256": "a2c495237fb0dc0dc96ccc2c9840572edd226e6459398ecb631c6c9f9e5408f0",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-handle-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-handle-2.ogg": {
+        "sha256": "099b6d7d3a71e7d22171a93d124e7366e326d32eb85d718ba29abded8a49c329",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-handle-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/scratch_004.ogg": {
+        "sha256": "26009c67ef90ee7a5a2bc458ef9e7f5a9da83da9397a830cff9e4a1813914687",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/scratch_004.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-handle-5.ogg": {
+        "sha256": "589753ea21b1955626e82975be8979f42140f5b0645a8c33c2d1f7e33fba68cb",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-handle-5.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-handle-6.ogg": {
+        "sha256": "527d4d3de55cc261dc476329b71a750c296f3ad633ac50318d913976bb89857c",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-handle-6.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-handle-4.ogg": {
+        "sha256": "0d171ea00224709cbe31ef95a111eabaf1382606a4836c5717043b339cbed8e9",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-handle-4.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/switch_004.ogg": {
+        "sha256": "541c19cc1ab712a9efc5765df602e7d0da09d9cafdd297ce1e19b092289fd62f",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/switch_004.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/tick_004.ogg": {
+        "sha256": "0253d5f7d8d2afbbc370eac2a4539bb844239f0c98343e516d376b137c06d27c",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/tick_004.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/dice-grab-2.ogg": {
+        "sha256": "4eb4940d1e71aa3f6ac5f865b6b47748a492adf6a83d622c8efe6284dbebbd2c",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/dice-grab-2.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-slide-8.ogg": {
+        "sha256": "95d9aa26f8c63af9934f27a8e3b7e9b583f177640f0bbd6982f12dba52b9ae6b",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-slide-8.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/die-throw-4.ogg": {
+        "sha256": "6253cabcb10c4152548cbc9d3ea87c1bf1bd484f0bd8d6b73c542e690509c0fd",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/die-throw-4.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-slide-7.ogg": {
+        "sha256": "bda2040194f43484d03ee3c65ed6fff57251882ea7227abce4214bfa30bf2705",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-slide-7.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-shove-1.ogg": {
+        "sha256": "1ea667aa6795d5f14239192116ebcbd8f3f47eb1c7faaf2ec56844b9067b8b06",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-shove-1.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-shove-4.ogg": {
+        "sha256": "0a1ad3a2f16bd2ed73349e6342426ca7a59a6e26b7e26e36d51d51c2c2349d6f",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-shove-4.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/card-shove-3.ogg": {
+        "sha256": "399520d483a1466fcaa850b9c407b4edbd5c7f0cbdf17e84dea12e9636326d0d",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/card-shove-3.ogg",
+        "license": "CC0-1.0"
+      },
+      "casino/chips-handle-3.ogg": {
+        "sha256": "7c5a86e27b2bef839ae096dd655506cf46a82494bd01cc28f51bed6ab26cc342",
+        "archive_sha256": "f36250766ac5bc378c13708ddf12a23a8e54a3251f8d482c7536e51b5dbafa18",
+        "archive_member": "Audio/chips-handle-3.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/switch_006.ogg": {
+        "sha256": "2676ddc4e341ee557b4d1dc8767ef8655540d66fb3ded6a1614080dbc4dc6f18",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/switch_006.ogg",
+        "license": "CC0-1.0"
+      },
+      "interface/close_002.ogg": {
+        "sha256": "bc4279d2bb2bf86592473eab6a8eab55e51b54a8619315000dbd780a83b102d8",
+        "archive_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+        "archive_member": "Audio/close_002.ogg",
+        "license": "CC0-1.0"
+      }
+    },
+    "notes": "Layered foley and authored arrangements. Single collision atoms are used for animated sowing and Plinko; full scene/roll demonstrations are not replayed at each contact. Original source recordings are CC0 by Kenney. No Nintendo recordings."
+  }
+}

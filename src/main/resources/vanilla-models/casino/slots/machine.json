@@ -1,0 +1,475 @@
+{
+  "blocks": [
+    {
+      "name": "plinth",
+      "position": [
+        0.0,
+        0.015,
+        -0.011249999999999996
+      ],
+      "size": [
+        0.55,
+        0.03,
+        0.2875
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "lower_body",
+      "position": [
+        0.0,
+        0.14375,
+        -0.022499999999999992
+      ],
+      "size": [
+        0.515,
+        0.2275,
+        0.24
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "rear_shell",
+      "position": [
+        0.0,
+        0.50625,
+        -0.04125
+      ],
+      "size": [
+        0.49,
+        0.4975,
+        0.22749999999999998
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "left_cheek",
+      "position": [
+        -0.26,
+        0.516875,
+        -0.018750000000000003
+      ],
+      "size": [
+        0.030000000000000027,
+        0.51875,
+        0.27249999999999996
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "right_cheek",
+      "position": [
+        0.26,
+        0.516875,
+        -0.018750000000000003
+      ],
+      "size": [
+        0.030000000000000027,
+        0.51875,
+        0.27249999999999996
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "screen_recess",
+      "position": [
+        0.0,
+        0.475,
+        0.0765
+      ],
+      "size": [
+        0.475,
+        0.375,
+        0.004500000000000004
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "marquee",
+      "position": [
+        0.0,
+        0.7275,
+        0.090625
+      ],
+      "size": [
+        0.49,
+        0.10499999999999998,
+        0.036250000000000004
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "canopy",
+      "position": [
+        0.0,
+        0.780625,
+        -0.016875
+      ],
+      "size": [
+        0.525,
+        0.008750000000000036,
+        0.27625
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "kick_light",
+      "position": [
+        0.0,
+        0.037500000000000006,
+        0.10375000000000001
+      ],
+      "size": [
+        0.485,
+        0.010000000000000002,
+        0.007499999999999993
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "left_edge_light",
+      "position": [
+        -0.26249999999999996,
+        0.52,
+        0.121375
+      ],
+      "size": [
+        0.007500000000000007,
+        0.49,
+        0.005250000000000005
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "right_edge_light",
+      "position": [
+        0.26249999999999996,
+        0.52,
+        0.121375
+      ],
+      "size": [
+        0.007500000000000007,
+        0.49,
+        0.005250000000000005
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "header_light",
+      "position": [
+        0.0,
+        0.780625,
+        0.117375
+      ],
+      "size": [
+        0.47,
+        0.00374999999999992,
+        0.00875
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "screen_bezel_left",
+      "position": [
+        -0.238125,
+        0.47562499999999996,
+        0.084375
+      ],
+      "size": [
+        0.00874999999999998,
+        0.38625,
+        0.008749999999999994
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_bezel_right",
+      "position": [
+        0.238125,
+        0.47562499999999996,
+        0.084375
+      ],
+      "size": [
+        0.00874999999999998,
+        0.38625,
+        0.008749999999999994
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_bezel_lower",
+      "position": [
+        0.0,
+        0.286875,
+        0.084375
+      ],
+      "size": [
+        0.4675,
+        0.008750000000000036,
+        0.008749999999999994
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_bezel_upper",
+      "position": [
+        0.0,
+        0.6643749999999999,
+        0.084375
+      ],
+      "size": [
+        0.4675,
+        0.008749999999999925,
+        0.008749999999999994
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "vent_0",
+      "position": [
+        0.0,
+        0.06725,
+        0.1005
+      ],
+      "size": [
+        0.44,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "vent_1",
+      "position": [
+        0.0,
+        0.081,
+        0.1005
+      ],
+      "size": [
+        0.44,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "vent_2",
+      "position": [
+        0.0,
+        0.09475,
+        0.1005
+      ],
+      "size": [
+        0.44,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "reel_divider_-0.25",
+      "position": [
+        -0.0625,
+        0.47375,
+        0.08987500000000001
+      ],
+      "size": [
+        0.006000000000000005,
+        0.36250000000000004,
+        0.011249999999999996
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "reel_divider_0.25",
+      "position": [
+        0.0625,
+        0.47375,
+        0.08987500000000001
+      ],
+      "size": [
+        0.006000000000000005,
+        0.36250000000000004,
+        0.011249999999999996
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "reel_rail_1.16",
+      "position": [
+        0.0,
+        0.29225,
+        0.08937500000000001
+      ],
+      "size": [
+        0.475,
+        0.004500000000000004,
+        0.011249999999999996
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "reel_rail_1.65",
+      "position": [
+        0.0,
+        0.41474999999999995,
+        0.08937500000000001
+      ],
+      "size": [
+        0.475,
+        0.004500000000000004,
+        0.011249999999999996
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "reel_rail_2.13",
+      "position": [
+        0.0,
+        0.5347500000000001,
+        0.08937500000000001
+      ],
+      "size": [
+        0.475,
+        0.0045000000000000595,
+        0.011249999999999996
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "reel_rail_2.62",
+      "position": [
+        0.0,
+        0.65725,
+        0.08937500000000001
+      ],
+      "size": [
+        0.475,
+        0.0044999999999999485,
+        0.011249999999999996
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "control_shelf",
+      "position": [
+        0.0,
+        0.20375,
+        0.12
+      ],
+      "size": [
+        0.51,
+        0.027499999999999997,
+        0.07
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "control_dock",
+      "position": [
+        0.0,
+        0.227083425,
+        0.15228735
+      ],
+      "size": [
+        0.44,
+        0.08062499999999997,
+        0.021562500000000012
+      ],
+      "material": "GRAY_CONCRETE",
+      "rotation": [
+        -34.99999998865456,
+        0,
+        0.0
+      ]
+    },
+    {
+      "name": "marquee_inlay",
+      "position": [
+        0.0,
+        0.73375,
+        0.111
+      ],
+      "size": [
+        0.47,
+        0.08250000000000002,
+        0.0030000000000000027
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "armor_panel_left",
+      "position": [
+        -0.275625,
+        0.516875,
+        -0.018750000000000003
+      ],
+      "size": [
+        0.00075,
+        0.36312500000000003,
+        0.16895
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "armor_foot_left",
+      "position": [
+        -0.23750000000000002,
+        0.065,
+        0.1
+      ],
+      "size": [
+        0.03,
+        0.055,
+        0.004
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "armor_panel_right",
+      "position": [
+        0.275625,
+        0.516875,
+        -0.018750000000000003
+      ],
+      "size": [
+        0.00075,
+        0.36312500000000003,
+        0.16895
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "armor_foot_right",
+      "position": [
+        0.23750000000000002,
+        0.065,
+        0.1
+      ],
+      "size": [
+        0.03,
+        0.055,
+        0.004
+      ],
+      "material": "WHITE_CONCRETE"
+    }
+  ],
+  "labels": [
+    {
+      "name": "label_0",
+      "text": "LUCKY SLOTS",
+      "position": [
+        2.7755575615628914e-17,
+        0.735,
+        0.11325000000000005
+      ],
+      "width": 0.41800000000000004,
+      "height": 0.06480000000000005,
+      "color": 14146002
+    }
+  ]
+}

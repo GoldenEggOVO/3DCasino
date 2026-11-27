@@ -1,0 +1,12 @@
+3DCasino - independent Casino machines for Minecraft.
+Copyright GoldenEggOVO. GPL-3.0-or-later.
+Casino rules, native geometry and machine controllers derive from
+GoldenEggOVO/3DCasinoGames 0.6.0-beta.5-SNAPSHOT local source, GPL-3.0.
+Shared infrastructure derives from 3DGames, GPL-3.0-or-later.
+Gson is distributed under Apache-2.0; its upstream notices accompany the shaded dependency.
+Adventure API, MiniMessage, serializers and Kyori Option are distributed under MIT;
+see META-INF/licenses/adventure-MIT.txt and META-INF/licenses/option-MIT.txt.
+Resource-pack playing cards: George Blackwell, CC-BY-4.0; see licenses/3dcasino/playing-cards.txt in the bundled client pack.
+Resource-pack card deal sound: Kenney, Casino Audio 1.1, CC0-1.0; see licenses/3dcasino/kenney-casino.txt in the bundled client pack.
+Native player-head texture properties retain Mojang signatures and textures.minecraft.net URLs.
+Optional economy integration uses the server's Vault API provider.

@@ -1,0 +1,1785 @@
+{
+  "blocks": [
+    {
+      "name": "plinth",
+      "position": [
+        0.0,
+        0.015,
+        0.009375000000000001
+      ],
+      "size": [
+        1.225,
+        0.03,
+        0.23375
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "lower_body",
+      "position": [
+        0.0,
+        0.14375,
+        -0.0018750000000000017
+      ],
+      "size": [
+        1.19,
+        0.2275,
+        0.18625
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "rear_shell",
+      "position": [
+        0.0,
+        0.7887500000000001,
+        -0.020624999999999998
+      ],
+      "size": [
+        1.165,
+        1.0625,
+        0.17375000000000002
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "left_cheek",
+      "position": [
+        -0.5975,
+        0.7993750000000001,
+        0.0018750000000000017
+      ],
+      "size": [
+        0.030000000000000027,
+        1.08375,
+        0.21875
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "right_cheek",
+      "position": [
+        0.5975,
+        0.7993750000000001,
+        0.0018750000000000017
+      ],
+      "size": [
+        0.030000000000000027,
+        1.08375,
+        0.21875
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "marquee",
+      "position": [
+        0.0,
+        1.27625,
+        0.084375
+      ],
+      "size": [
+        1.165,
+        0.13749999999999996,
+        0.03624999999999999
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "canopy",
+      "position": [
+        0.0,
+        1.345625,
+        0.0037500000000000033
+      ],
+      "size": [
+        1.2,
+        0.008750000000000036,
+        0.2225
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "kick_light",
+      "position": [
+        0.0,
+        0.037500000000000006,
+        0.0975
+      ],
+      "size": [
+        1.16,
+        0.010000000000000002,
+        0.007500000000000007
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "left_edge_light",
+      "position": [
+        -0.6,
+        0.8025,
+        0.115125
+      ],
+      "size": [
+        0.007500000000000062,
+        1.0550000000000002,
+        0.005249999999999991
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "right_edge_light",
+      "position": [
+        0.6,
+        0.8025,
+        0.115125
+      ],
+      "size": [
+        0.007500000000000062,
+        1.0550000000000002,
+        0.005249999999999991
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "header_light",
+      "position": [
+        0.0,
+        1.345625,
+        0.111125
+      ],
+      "size": [
+        1.145,
+        0.00374999999999992,
+        0.00875
+      ],
+      "material": "LIGHT_BLUE_CONCRETE",
+      "brightness": 15
+    },
+    {
+      "name": "screen_bezel_left",
+      "position": [
+        -0.575625,
+        0.741875,
+        0.078125
+      ],
+      "size": [
+        0.008749999999999925,
+        0.91875,
+        0.008750000000000008
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_bezel_right",
+      "position": [
+        0.575625,
+        0.741875,
+        0.078125
+      ],
+      "size": [
+        0.008749999999999925,
+        0.91875,
+        0.008750000000000008
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_bezel_lower",
+      "position": [
+        0.0,
+        0.286875,
+        0.078125
+      ],
+      "size": [
+        1.1425,
+        0.008750000000000036,
+        0.008750000000000008
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_bezel_upper",
+      "position": [
+        0.0,
+        1.196875,
+        0.078125
+      ],
+      "size": [
+        1.1425,
+        0.008750000000000036,
+        0.008750000000000008
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "vent_0",
+      "position": [
+        0.0,
+        0.06725,
+        0.09425
+      ],
+      "size": [
+        1.115,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "vent_1",
+      "position": [
+        0.0,
+        0.081,
+        0.09425
+      ],
+      "size": [
+        1.115,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "vent_2",
+      "position": [
+        0.0,
+        0.09475,
+        0.09425
+      ],
+      "size": [
+        1.115,
+        0.004500000000000004,
+        0.0020000000000000018
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "pin_board",
+      "position": [
+        0.0,
+        0.7337499999999999,
+        0.07050000000000001
+      ],
+      "size": [
+        1.145,
+        0.8925,
+        0.00399999999999999
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "pin_0",
+      "position": [
+        0.0,
+        1.0925,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_1",
+      "position": [
+        -0.045,
+        1.025,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01749999999999985,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_2",
+      "position": [
+        0.045,
+        1.025,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01749999999999985,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_3",
+      "position": [
+        -0.09,
+        0.9575,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_4",
+      "position": [
+        0.0,
+        0.9575,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_5",
+      "position": [
+        0.09,
+        0.9575,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_6",
+      "position": [
+        -0.135,
+        0.89,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_7",
+      "position": [
+        -0.045,
+        0.89,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_8",
+      "position": [
+        0.045,
+        0.89,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_9",
+      "position": [
+        0.135,
+        0.89,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_10",
+      "position": [
+        -0.18,
+        0.8225,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_11",
+      "position": [
+        -0.09,
+        0.8225,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_12",
+      "position": [
+        0.0,
+        0.8225,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_13",
+      "position": [
+        0.09,
+        0.8225,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_14",
+      "position": [
+        0.18,
+        0.8225,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_15",
+      "position": [
+        -0.225,
+        0.755,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_16",
+      "position": [
+        -0.135,
+        0.755,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_17",
+      "position": [
+        -0.045,
+        0.755,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_18",
+      "position": [
+        0.045,
+        0.755,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_19",
+      "position": [
+        0.135,
+        0.755,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_20",
+      "position": [
+        0.225,
+        0.755,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_21",
+      "position": [
+        -0.27,
+        0.6875,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_22",
+      "position": [
+        -0.18,
+        0.6875,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_23",
+      "position": [
+        -0.09,
+        0.6875,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_24",
+      "position": [
+        0.0,
+        0.6875,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_25",
+      "position": [
+        0.09,
+        0.6875,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_26",
+      "position": [
+        0.18,
+        0.6875,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_27",
+      "position": [
+        0.27,
+        0.6875,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_28",
+      "position": [
+        -0.315,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.01749999999999996,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_29",
+      "position": [
+        -0.225,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_30",
+      "position": [
+        -0.135,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_31",
+      "position": [
+        -0.045,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_32",
+      "position": [
+        0.045,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_33",
+      "position": [
+        0.135,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_34",
+      "position": [
+        0.225,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_35",
+      "position": [
+        0.315,
+        0.62,
+        0.093
+      ],
+      "size": [
+        0.01749999999999996,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_36",
+      "position": [
+        -0.36,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_37",
+      "position": [
+        -0.27,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_38",
+      "position": [
+        -0.18,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_39",
+      "position": [
+        -0.09,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_40",
+      "position": [
+        0.0,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_41",
+      "position": [
+        0.09,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_42",
+      "position": [
+        0.18,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_43",
+      "position": [
+        0.27,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_44",
+      "position": [
+        0.36,
+        0.5525,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.01750000000000007,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_45",
+      "position": [
+        -0.405,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_46",
+      "position": [
+        -0.315,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.01749999999999996,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_47",
+      "position": [
+        -0.225,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_48",
+      "position": [
+        -0.135,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_49",
+      "position": [
+        -0.045,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_50",
+      "position": [
+        0.045,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_51",
+      "position": [
+        0.135,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_52",
+      "position": [
+        0.225,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_53",
+      "position": [
+        0.315,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.01749999999999996,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_54",
+      "position": [
+        0.405,
+        0.485,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_55",
+      "position": [
+        -0.44999999999999996,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_56",
+      "position": [
+        -0.36,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_57",
+      "position": [
+        -0.27,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_58",
+      "position": [
+        -0.18,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_59",
+      "position": [
+        -0.09,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_60",
+      "position": [
+        0.0,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_61",
+      "position": [
+        0.09,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_62",
+      "position": [
+        0.18,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_63",
+      "position": [
+        0.27,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_64",
+      "position": [
+        0.36,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_65",
+      "position": [
+        0.44999999999999996,
+        0.4175,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_66",
+      "position": [
+        -0.495,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_67",
+      "position": [
+        -0.405,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_68",
+      "position": [
+        -0.315,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.01749999999999996,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_69",
+      "position": [
+        -0.225,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_70",
+      "position": [
+        -0.135,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_71",
+      "position": [
+        -0.045,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_72",
+      "position": [
+        0.045,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.0175,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_73",
+      "position": [
+        0.135,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017499999999999988,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_74",
+      "position": [
+        0.225,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_75",
+      "position": [
+        0.315,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.01749999999999996,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_76",
+      "position": [
+        0.405,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "pin_77",
+      "position": [
+        0.495,
+        0.35,
+        0.093
+      ],
+      "size": [
+        0.017500000000000016,
+        0.017500000000000016,
+        0.04150000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE",
+      "brightness": 4
+    },
+    {
+      "name": "slot_wall_0",
+      "position": [
+        -0.585,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_1",
+      "position": [
+        -0.495,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_2",
+      "position": [
+        -0.405,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.008999999999999952,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_3",
+      "position": [
+        -0.315,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_4",
+      "position": [
+        -0.225,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_5",
+      "position": [
+        -0.135,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_6",
+      "position": [
+        -0.045,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000001,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_7",
+      "position": [
+        0.045,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000001,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_8",
+      "position": [
+        0.135,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_9",
+      "position": [
+        0.225,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_10",
+      "position": [
+        0.315,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_11",
+      "position": [
+        0.405,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.008999999999999952,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_12",
+      "position": [
+        0.495,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_wall_13",
+      "position": [
+        0.585,
+        0.26,
+        0.0925
+      ],
+      "size": [
+        0.009000000000000008,
+        0.04999999999999999,
+        0.04000000000000001
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "slot_floor",
+      "position": [
+        0.0,
+        0.22499999999999998,
+        0.08875
+      ],
+      "size": [
+        1.215,
+        0.01999999999999999,
+        0.0475
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "front_control",
+      "position": [
+        0.0,
+        0.1275,
+        0.115125
+      ],
+      "size": [
+        0.324,
+        0.08000000000000002,
+        0.00474999999999999
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "launch_dock",
+      "position": [
+        0.0,
+        0.10200835,
+        0.1580109625
+      ],
+      "size": [
+        0.375,
+        0.09316665,
+        0.024916675
+      ],
+      "material": "GRAY_CONCRETE",
+      "rotation": [
+        -25.000000000081226,
+        0,
+        0.0
+      ]
+    },
+    {
+      "name": "launch_bracket_l",
+      "position": [
+        -0.15000000000000002,
+        0.0775,
+        0.12625
+      ],
+      "size": [
+        0.024999999999999994,
+        0.045000000000000005,
+        0.0725
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "launch_bracket_r",
+      "position": [
+        0.15000000000000002,
+        0.0775,
+        0.12625
+      ],
+      "size": [
+        0.024999999999999994,
+        0.045000000000000005,
+        0.0725
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "armor_panel_left",
+      "position": [
+        -0.613125,
+        0.7993750000000001,
+        0.0018750000000000017
+      ],
+      "size": [
+        0.00075,
+        0.758625,
+        0.135625
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "armor_foot_left",
+      "position": [
+        -0.575,
+        0.065,
+        0.09375
+      ],
+      "size": [
+        0.03,
+        0.055,
+        0.004
+      ],
+      "material": "WHITE_CONCRETE"
+    },
+    {
+      "name": "armor_panel_right",
+      "position": [
+        0.613125,
+        0.7993750000000001,
+        0.0018750000000000017
+      ],
+      "size": [
+        0.00075,
+        0.758625,
+        0.135625
+      ],
+      "material": "GRAY_CONCRETE"
+    },
+    {
+      "name": "armor_foot_right",
+      "position": [
+        0.575,
+        0.065,
+        0.09375
+      ],
+      "size": [
+        0.03,
+        0.055,
+        0.004
+      ],
+      "material": "WHITE_CONCRETE"
+    }
+  ],
+  "labels": [
+    {
+      "name": "label_0",
+      "text": "PLINKO",
+      "position": [
+        0.0,
+        1.27125,
+        0.11825000000000005
+      ],
+      "width": 0.99,
+      "height": 0.06299999999999993,
+      "color": 14146002
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+items:
+  # Casino machines and moving parts
+  3dcasino:blackjack_machine:
+    material: paper
+    item_model: 3dcasino:casino/blackjack/blackjack_machine
+  3dcasino:blackjack_score_panel:
+    material: paper
+    item_model: 3dcasino:casino/blackjack/blackjack_score_panel
+  3dcasino:casino_button_double:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_double
+  3dcasino:casino_button_hit:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_hit
+  3dcasino:casino_button_minus:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_minus
+  3dcasino:casino_button_plus:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_plus
+  3dcasino:casino_button_stand:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_stand
+  3dcasino:crash_machine:
+    material: paper
+    item_model: 3dcasino:casino/crash/crash_machine
+  3dcasino:mines_machine:
+    material: paper
+    item_model: 3dcasino:casino/mines/mines_machine
+  3dcasino:mines_machine_sloped:
+    material: paper
+    item_model: 3dcasino:casino/mines/mines_machine_sloped
+  3dcasino:plinko_machine:
+    material: paper
+    item_model: 3dcasino:casino/plinko/plinko_machine
+  3dcasino:crash_rocket:
+    material: paper
+    item_model: 3dcasino:casino/crash/crash_rocket
+  3dcasino:card_0:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_ace
+  3dcasino:card_1:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_2
+  3dcasino:card_10:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_jack
+  3dcasino:card_11:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_queen
+  3dcasino:card_12:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_king
+  3dcasino:card_13:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_ace
+  3dcasino:card_14:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_2
+  3dcasino:card_15:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_3
+  3dcasino:card_16:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_4
+  3dcasino:card_17:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_5
+  3dcasino:card_18:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_6
+  3dcasino:card_19:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_7
+  3dcasino:card_2:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_3
+  3dcasino:card_20:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_8
+  3dcasino:card_21:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_9
+  3dcasino:card_22:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_10
+  3dcasino:card_23:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_jack
+  3dcasino:card_24:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_queen
+  3dcasino:card_25:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_hearts_king
+  3dcasino:card_26:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_ace
+  3dcasino:card_27:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_2
+  3dcasino:card_28:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_3
+  3dcasino:card_29:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_4
+  3dcasino:card_3:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_4
+  3dcasino:card_30:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_5
+  3dcasino:card_31:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_6
+  3dcasino:card_32:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_7
+  3dcasino:card_33:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_8
+  3dcasino:card_34:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_9
+  3dcasino:card_35:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_10
+  3dcasino:card_36:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_jack
+  3dcasino:card_37:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_queen
+  3dcasino:card_38:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_clubs_king
+  3dcasino:card_39:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_ace
+  3dcasino:card_4:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_5
+  3dcasino:card_40:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_2
+  3dcasino:card_41:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_3
+  3dcasino:card_42:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_4
+  3dcasino:card_43:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_5
+  3dcasino:card_44:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_6
+  3dcasino:card_45:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_7
+  3dcasino:card_46:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_8
+  3dcasino:card_47:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_9
+  3dcasino:card_48:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_10
+  3dcasino:card_49:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_jack
+  3dcasino:card_5:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_6
+  3dcasino:card_50:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_queen
+  3dcasino:card_51:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_diamonds_king
+  3dcasino:card_52:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_back
+  3dcasino:card_6:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_7
+  3dcasino:card_7:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_8
+  3dcasino:card_8:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_9
+  3dcasino:card_9:
+    material: paper
+    item_model: 3dcasino:casino/shared/cards/poker_spades_10
+  3dcasino:dragon_tile_hidden:
+    material: paper
+    item_model: 3dcasino:casino/dragon_tower/dragon_tower_tile_hidden
+  3dcasino:dragon_tile_safe:
+    material: paper
+    item_model: 3dcasino:casino/dragon_tower/dragon_tower_tile_safe
+  3dcasino:dragon_tile_trap:
+    material: paper
+    item_model: 3dcasino:casino/dragon_tower/dragon_tower_tile_trap
+  3dcasino:casino_button_cashout:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_cashout
+  3dcasino:duck_race_button_1:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/duck_race_button_1
+  3dcasino:duck_race_button_2:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/duck_race_button_2
+  3dcasino:duck_race_button_3:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/duck_race_button_3
+  3dcasino:duck_race_button_4:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/duck_race_button_4
+  3dcasino:money_wheel_button_2x:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/money_wheel_button_2x
+  3dcasino:money_wheel_button_3x:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/money_wheel_button_3x
+  3dcasino:money_wheel_button_5x:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/money_wheel_button_5x
+  3dcasino:money_wheel_button_10x:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/money_wheel_button_10x
+  3dcasino:casino_button_over:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_over
+  3dcasino:casino_button_play:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_play
+  3dcasino:casino_button_spin_round:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_spin_round
+  3dcasino:casino_button_spin:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_spin
+  3dcasino:casino_button_step:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_step
+  3dcasino:casino_button_under:
+    material: paper
+    item_model: 3dcasino:casino/shared/buttons/casino_button_under
+  3dcasino:dragon_tower_machine:
+    material: paper
+    item_model: 3dcasino:casino/dragon_tower/dragon_tower_machine
+  3dcasino:dragon_tower_machine_compact:
+    material: paper
+    item_model: 3dcasino:casino/dragon_tower/dragon_tower_machine_compact
+  3dcasino:duck_race_duck_1:
+    material: paper
+    item_model: 3dcasino:casino/duck_race/duck_race_duck_1
+  3dcasino:duck_race_duck_2:
+    material: paper
+    item_model: 3dcasino:casino/duck_race/duck_race_duck_2
+  3dcasino:duck_race_duck_3:
+    material: paper
+    item_model: 3dcasino:casino/duck_race/duck_race_duck_3
+  3dcasino:duck_race_duck_4:
+    material: paper
+    item_model: 3dcasino:casino/duck_race/duck_race_duck_4
+  3dcasino:duck_race_machine:
+    material: paper
+    item_model: 3dcasino:casino/duck_race/duck_race_machine
+  3dcasino:hilo_machine:
+    material: paper
+    item_model: 3dcasino:casino/hilo/hilo_machine
+  3dcasino:hilo_number_panel:
+    material: paper
+    item_model: 3dcasino:casino/hilo/hilo_number_panel
+  3dcasino:keno_machine:
+    material: paper
+    item_model: 3dcasino:casino/keno/keno_machine
+  3dcasino:money_wheel_machine:
+    material: paper
+    item_model: 3dcasino:casino/money_wheel/money_wheel_machine
+  3dcasino:penguin_cross_penguin:
+    material: paper
+    item_model: 3dcasino:casino/penguin_cross/penguin_cross_penguin
+  3dcasino:penguin_cross_machine:
+    material: paper
+    item_model: 3dcasino:casino/penguin_cross/penguin_cross_machine
+  3dcasino:wheel_of_fortune_pointer:
+    material: paper
+    item_model: 3dcasino:casino/wheel_of_fortune/wheel_of_fortune_pointer
+  3dcasino:money_wheel_pointer:
+    material: paper
+    item_model: 3dcasino:casino/money_wheel/money_wheel_pointer
+  3dcasino:hilo_slider:
+    material: paper
+    item_model: 3dcasino:casino/shared/controls/hilo_slider
+  3dcasino:slots_machine:
+    material: paper
+    item_model: 3dcasino:casino/slots/slots_machine
+  3dcasino:keno_tile:
+    material: paper
+    item_model: 3dcasino:casino/keno/keno_tile
+  3dcasino:keno_tile_selected:
+    material: paper
+    item_model: 3dcasino:casino/keno/keno_tile_selected
+  3dcasino:wheel_of_fortune_disc:
+    material: paper
+    item_model: 3dcasino:casino/wheel_of_fortune/wheel_of_fortune_disc
+  3dcasino:money_wheel_disc:
+    material: paper
+    item_model: 3dcasino:casino/money_wheel/money_wheel_disc
+  3dcasino:wheel_of_fortune_machine:
+    material: paper
+    item_model: 3dcasino:casino/wheel_of_fortune/wheel_of_fortune_machine

@@ -1,0 +1,89 @@
+{
+  "blocks": [
+    {
+      "name": "screen_body",
+      "position": [
+        0.0,
+        0.321,
+        -0.20875
+      ],
+      "size": [
+        0.3375,
+        0.18299999999999997,
+        0.010000000000000009
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "screen",
+      "position": [
+        0.0,
+        0.3375,
+        -0.199875
+      ],
+      "size": [
+        0.316,
+        0.13,
+        0.007249999999999979
+      ],
+      "material": "BLACK_CONCRETE"
+    },
+    {
+      "name": "screen_trim_left",
+      "position": [
+        -0.16575,
+        0.3375,
+        -0.198625
+      ],
+      "size": [
+        0.006000000000000005,
+        0.14999999999999997,
+        0.00775
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_trim_right",
+      "position": [
+        0.16575,
+        0.3375,
+        -0.198625
+      ],
+      "size": [
+        0.006000000000000005,
+        0.14999999999999997,
+        0.00775
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_trim_lower",
+      "position": [
+        0.0,
+        0.2655,
+        -0.198625
+      ],
+      "size": [
+        0.3255,
+        0.006000000000000005,
+        0.00775
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    },
+    {
+      "name": "screen_trim_upper",
+      "position": [
+        0.0,
+        0.4095,
+        -0.198625
+      ],
+      "size": [
+        0.3255,
+        0.006000000000000005,
+        0.00775
+      ],
+      "material": "LIGHT_GRAY_CONCRETE"
+    }
+  ],
+  "labels": []
+}
